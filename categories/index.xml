@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>جميع أقسام المدونة on مدونتي</title>
+    <link>/categories/</link>
+    <description>Recent content in جميع أقسام المدونة on مدونتي</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar</language>
+    <lastBuildDate>Sun, 07 Aug 2022 19:52:29 +0200</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>قسم اول</title>
+      <link>/categories/%D9%82%D8%B3%D9%85-%D8%A7%D9%88%D9%84/</link>
+      <pubDate>Sun, 07 Aug 2022 06:14:47 +0200</pubDate>
+      
+      <guid>/categories/%D9%82%D8%B3%D9%85-%D8%A7%D9%88%D9%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>قسم ثانى</title>
+      <link>/categories/%D9%82%D8%B3%D9%85-%D8%AB%D8%A7%D9%86%D9%89/</link>
+      <pubDate>Sun, 07 Aug 2022 06:14:30 +0200</pubDate>
+      
+      <guid>/categories/%D9%82%D8%B3%D9%85-%D8%AB%D8%A7%D9%86%D9%89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>قسم ثالث</title>
+      <link>/categories/%D9%82%D8%B3%D9%85-%D8%AB%D8%A7%D9%84%D8%AB/</link>
+      <pubDate>Sun, 07 Aug 2022 06:14:19 +0200</pubDate>
+      
+      <guid>/categories/%D9%82%D8%B3%D9%85-%D8%AB%D8%A7%D9%84%D8%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>قسم رابع</title>
+      <link>/categories/%D9%82%D8%B3%D9%85-%D8%B1%D8%A7%D8%A8%D8%B9/</link>
+      <pubDate>Sun, 07 Aug 2022 06:14:06 +0200</pubDate>
+      
+      <guid>/categories/%D9%82%D8%B3%D9%85-%D8%B1%D8%A7%D8%A8%D8%B9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>قسم خامس</title>
+      <link>/categories/%D9%82%D8%B3%D9%85-%D8%AE%D8%A7%D9%85%D8%B3/</link>
+      <pubDate>Sun, 07 Aug 2022 06:13:56 +0200</pubDate>
+      
+      <guid>/categories/%D9%82%D8%B3%D9%85-%D8%AE%D8%A7%D9%85%D8%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>قسم سادس</title>
+      <link>/categories/%D9%82%D8%B3%D9%85-%D8%B3%D8%A7%D8%AF%D8%B3/</link>
+      <pubDate>Sun, 07 Aug 2022 06:13:44 +0200</pubDate>
+      
+      <guid>/categories/%D9%82%D8%B3%D9%85-%D8%B3%D8%A7%D8%AF%D8%B3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
